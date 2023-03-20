@@ -17,6 +17,8 @@
     <modules>
         <module>springboot-common</module>
         <module>springboot-validation</module>
+        <module>springboot-read-config</module>
+        <module>springboot-https</module>
     </modules>
 
     <dependencyManagement>
