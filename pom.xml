@@ -26,6 +26,8 @@
         <module>springboot-validation</module>
         <module>springboot-read-config</module>
         <module>springboot-https</module>
+        <module>springboot-json</module>
+        <module>springboot-xml</module>
     </modules>
 
     <dependencyManagement>
