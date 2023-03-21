@@ -28,6 +28,7 @@
         <module>springboot-https</module>
         <module>springboot-json</module>
         <module>springboot-xml</module>
+        <module>springboot-mail</module>
     </modules>
 
     <dependencyManagement>
