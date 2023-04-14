@@ -29,6 +29,7 @@
         <module>springboot-json</module>
         <module>springboot-xml</module>
         <module>springboot-mail</module>
+        <module>springboot-execl</module>
     </modules>
 
     <dependencyManagement>
@@ -62,6 +63,11 @@
                 <groupId>org.hibernate.validator</groupId>
                 <artifactId>hibernate-validator</artifactId>
                 <version>6.2.2.Final</version>
+            </dependency>
+            <dependency>
+                <groupId>com.alibaba</groupId>
+                <artifactId>easyexcel</artifactId>
+                <version>2.2.6</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
